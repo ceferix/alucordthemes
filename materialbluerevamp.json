@@ -2,7 +2,8 @@
     "manifest": {
         "author": "chickennugget#4787",
         "name": "Material You Blue Revamp",
-        "version": "2.0.0"
+        "version": "2.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/ceferix\/alucordthemes\/main\/materialbluerevamp.json"
     },
     "background": {},
     "fonts": {},
