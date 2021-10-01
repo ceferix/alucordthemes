@@ -1,10 +1,10 @@
 {
     "manifest": {
         "author": "chickennugget#4787",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "name": "This is Halloween",
         "license": "CC Attribution 3.0"
-        "updater": "https://raw.githubusercontent.com/ceferix/alucordthemes/main/itsoctoberbitches.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/ceferix\/alucordthemes\/main\/itsoctoberbitches.json"
     },
     "background": {},
     "fonts": {},
@@ -21,6 +21,7 @@
         "primary_dark_300": -6071503,
         "primary_dark_360": 2145838822,
         "uikit_btn_bg_color_selector_brand": -6071503,
+        "uikit_btn_bg_color_selector_green": -9089136,
         "uikit_btn_bg_color_selector_red": -7133915,
         "uikit_btn_compound_color_selector_dark": -6071503,
         "uikit_btn_compound_color_selector_light": -6071503,
