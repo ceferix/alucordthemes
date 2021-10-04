@@ -7,8 +7,8 @@
         "updater": "https:\/\/raw.githubusercontent.com\/ceferix\/alucordthemes\/main\/actuallygradient.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/827395125981741056\/894253374332108890\/1633276955300_30baabe191097638c28351274edeb0e9_2_-1_art.png",
-        "overlay_alpha": 50
+        "overlay_alpha": 50,
+        "url": "https:\/\/media.discordapp.net\/attachments\/827395125981741056\/894586381827985418\/1633276724951.png"
     },
     "fonts": {},
     "simple_colors": {
